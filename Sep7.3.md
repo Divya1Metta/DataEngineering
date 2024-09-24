@@ -1,15 +1,16 @@
 # 3. Food Delivery Orders Content
 
-user_id,date,steps,calories,distance_km,active_minutes
-1,2023-07-01,12000,500,8.5,90
-2,2023-07-01,8000,350,5.6,60
-3,2023-07-01,15000,600,10.2,120
-1,2023-07-02,11000,480,7.9,85
-2,2023-07-02,9000,400,6.2,70
-3,2023-07-02,13000,520,9.0,100
-1,2023-07-03,10000,450,7.1,80
-2,2023-07-03,7000,320,4.9,55
-3,2023-07-03,16000,620,11.0,130
+order_id,customer_id,restaurant_name,food_item,quantity,price,delivery_time_mins,order_d
+1,201,McDonald's,Burger,2,5.99,30,2023-06-15
+2,202,Pizza Hut,Pizza,1,12.99,45,2023-06-16
+3,203,KFC,Fried Chicken,3,8.99,25,2023-06-17
+4,201,Subway,Sandwich,2,6.50,20,2023-06-17
+5,204,Domino's,Pizza,2,11.99,40,2023-06-18
+6,205,Starbucks,Coffee,1,4.50,15,2023-06-18
+7,202,KFC,Fried Chicken,1,8.99,25,2023-06-19
+8,206,McDonald's,Fries,3,2.99,15,2023-06-19
+9,207,Burger King,Burger,1,6.99,30,2023-06-20
+10,203,Starbucks,Coffee,2,4.50,20,2023-06-20
 
 
 # 3. Food Delivery Orders Solutions
